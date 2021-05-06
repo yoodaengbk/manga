@@ -1,0 +1,9 @@
+com\example\maga\model\Category.class
+com\example\maga\MagaApplication.class
+com\example\maga\model\Catalog.class
+com\example\maga\exception\ResourceNotFoundException.class
+com\example\maga\repository\ChapterRepository.class
+com\example\maga\model\Chapter.class
+com\example\maga\repository\CatalogRepository.class
+com\example\maga\repository\CategoryRepository.class
+com\example\maga\controller\CategoryController.class
